@@ -49,7 +49,10 @@ python3 semanticcomposer_falak.py \
 ```
 ---
 
-![Panoptic infrared sample](samples/infrared-0026_multi5.jpg)
+<div align="center">
+  <img src="samples/infrared-0026_multi5.jpg" alt="Panoptic infrared sample" width="600">
+</div>
+
 
 
 ---
