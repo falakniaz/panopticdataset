@@ -50,7 +50,7 @@ python3 semanticcomposer_falak.py \
 ---
 
 <div align="center">
-  <img src="samples/infrared-0026_multi5.jpg" alt="Panoptic infrared sample" width="1000">
+  <img src="samples/infrared-0026_multi5.jpg" alt="Panoptic infrared sample" width="800">
 </div>
 
 
