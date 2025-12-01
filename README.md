@@ -4,7 +4,7 @@
 
 ---
 <div align="center">
-  <img src="samples/image_1.png" alt="Panoptic infrared sample" width="1000">
+  <img src="samples/img_1.png" alt="Panoptic infrared sample" width="1000">
 </div>
 
 
