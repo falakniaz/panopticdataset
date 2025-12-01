@@ -1,4 +1,4 @@
-# UAV PanoSeg-A Large Scale Benchmark for Dual Modality Flying UAV Panoptic Segmentation
+# 🚁 UAV PanoSeg-A Large Scale Benchmark for Dual Modality Flying UAV Panoptic Segmentation
 
 <p>We introduce a new UAV's based dataset designed to advance research in panoptic segmentation by integrating object recognition into the broader context of scene understanding. </p>
 
@@ -47,6 +47,8 @@ python3 semanticcomposer_falak.py \
   --verbose \
   --seed 42
 ```
+---
+![Panoptic infrared sample](samples/infrared-0026_multi5.jpg)
 
 
 ---
@@ -64,7 +66,8 @@ python3 instance_builder_falak.py \
   --copy_images \
   --min_area 20
 ```
-
+---
+![Panoptic infrared sample](samples/infrared-0015_multi5_viz.jpg)
 ---
 <h2><a class = "anchor" id="Panoptic Dataset"></a>3. Panoptic Dataset </h2>
 
@@ -83,6 +86,11 @@ python3 instance_builder_falak.py \
   --category_id 1 --category_name uav_object
 
   ```
+---
+![Panoptic infrared sample](samples/panoptic_infrared-0920_multi5.jpg)
+
+---
+
 <h2><a class = "anchor" id = "Dataset Structure"></a>Dataset Structure </h2>
 
 ```
