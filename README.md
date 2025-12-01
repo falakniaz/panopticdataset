@@ -48,9 +48,9 @@ python3 semanticcomposer_falak.py \
   --seed 42
 ```
 ---
-<p align = "center">
+
 ![Panoptic infrared sample](samples/infrared-0026_multi5.jpg)
-</p>
+
 
 ---
 
