@@ -1,5 +1,6 @@
 # 🚁 UAV PanoSeg-A Large Scale Benchmark for Dual Modality Flying UAV Panoptic Segmentation
 Manuscript here: Niaz, F., Utama, I. B. K. Y., Ko, S. M., & Jang, Y. M. (2026). UAV-PanoSeg: A large-scale dual-modality benchmark for UAV-based panoptic segmentation. Alexandria Engineering Journal, 152, 77-93.
+https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=UAV-PanoSeg%3A+A+large-scale+dual-modality+benchmark+for+UAV-based+panoptic+segmentation&btnG=
 <p>We introduce a new UAV's based dataset designed to advance research in panoptic segmentation by integrating object recognition into the broader context of scene understanding. </p>
 
 ---
